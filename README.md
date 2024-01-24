@@ -10,4 +10,8 @@
 
 ## Member
 + 1인 프로젝트
-
+## Milestone
++ the first week : Tibero SQL PROFILE 로직에 대한 전반적인 조사
++ the second week : 기능 개선 로직 설계 및 개발
++ the third week : SQL Profile 기능 개발 완성
++ the last week : SQL Profile 기능 테스트 및 고객사(KT) 시현
